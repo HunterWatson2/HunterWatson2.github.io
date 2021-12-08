@@ -21,7 +21,7 @@
 ### Team
 
 [Team](/sample_page)
-<img src="images/POSTY.pdf?raw=true"/>
+<img src="images/Screen Shot 2021-12-06 at 1.39.58 PM.png?raw=true"/>
 
 
 POSTY.pdf
