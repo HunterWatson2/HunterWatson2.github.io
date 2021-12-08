@@ -2,10 +2,6 @@
 
 ---
 
-### Football
-
-[HW](/sample_page)
-<img src="images/E75A3464-68D1-4D50-B61C-0D2A94E70EB3.JPG?raw=true"/>
 
 ### Sports illustrated 
 
@@ -18,12 +14,12 @@
 [Team](/sample_page)
 <img src="images/Amatfb.jpg?raw=true"/>
 
-### Team
+### COLOR
 
 [Team](/sample_page)
 <img src="images/Screen Shot 2021-12-06 at 1.39.58 PM.png?raw=true"/>
 
-### Team
+### Black Cat
 
 [Team](/sample_page)
 <img src="images/Screen Shot 2021-12-08 at 10.42.51 AM.png?raw=true"/>
