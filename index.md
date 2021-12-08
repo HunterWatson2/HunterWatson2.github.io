@@ -13,9 +13,9 @@
 <img src="HWsportsIllustrated.JPG?raw=true"/>
 
 
-
+### Team
 [Team](/sample_page)
-<img src="Untitled presentation (1).jpg?raw=true"/>
+<img src="Amatfb.JPG?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
