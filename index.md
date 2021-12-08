@@ -9,7 +9,7 @@
 
 ### Sports illustrated 
 [Project 1 Title](/sample_page)
-<img src="HWsportsIllustrated.jpg?raw=true"/>
+<img src="HWsportsIllustrated.JPG?raw=true"/>
 
 
 
