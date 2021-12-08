@@ -10,12 +10,13 @@
 ### Sports illustrated 
 
 [Amat](/sample_page)
-<img src="HWsportsIllustrated.JPG?raw=true"/>
+<img src="images/HWsportsIllustrated.JPG?raw=true"/>
 
 
 ### Team
+
 [Team](/sample_page)
-<img src="Amatfb.JPG?raw=true"/>
+<img src="images/Amatfb.JPG?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
