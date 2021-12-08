@@ -18,6 +18,13 @@
 [Team](/sample_page)
 <img src="images/Amatfb.jpg?raw=true"/>
 
+### Team
+
+[Team](/sample_page)
+<img src="images/POSTY.pdf?raw=true"/>
+
+
+POSTY.pdf
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
